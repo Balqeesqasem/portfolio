@@ -1,0 +1,8 @@
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+a:hover {
+    color: #E27689;
+    border-bottom-color: rgba(255, 255, 255, 0);
+}
